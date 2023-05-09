@@ -74,6 +74,12 @@
     margin-left: 1rem;
     list-style: none;
   }
+
+  .list-item {
+    display: flex;
+    color:aquamarine;
+
+  }
   
   .list li:has(input:checked) label {
     color: hsl(200, 20%, 40%);
